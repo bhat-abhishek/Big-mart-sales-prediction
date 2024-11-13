@@ -1,0 +1,31 @@
+# Ignore virtual environments
+# For virtualenv or venv
+venv/
+env/
+.venv/
+# For Conda environments
+__conda_env__
+conda-meta/
+
+# Python cache files
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Jupyter notebook checkpoints
+.ipynb_checkpoints/
+
+# VS Code settings (optional)
+.vscode/
+
+# PyCharm settings (optional)
+.idea/
+
+# IDE files
+*.swp
+*.swo
+
+# System files (optional)
+.DS_Store
+Thumbs.db
